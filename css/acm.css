@@ -544,3 +544,66 @@ footer .footer-below {
     text-align: center;
     margin-bottom: 15px;
 }
+
+#pastColloquias {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+}
+
+#pastColloquias h2 {
+    margin-bottom: 20px;
+}
+
+#pastColloquias .nav-tabs {
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+#pastColloquias .tab-content video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#qaSection {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+}
+
+#qaSection h2 {
+    margin-bottom: 20px;
+}
+
+.panel-group .panel {
+    border: none;
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+
+.panel-group .panel-heading {
+    background-color: #3B3365;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+.panel-group .panel-title a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.panel-group .panel-title a:hover {
+    text-decoration: underline;
+}
+
+.panel-group .panel-collapse {
+    border-top: 2px solid #ddd;
+    background-color: white;
+}
+
+.panel-group .panel-body {
+    padding: 15px;
+    font-size: 16px;
+}
